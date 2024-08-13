@@ -56,7 +56,6 @@ El encriptador transforma las vocales del texto ingresado de la siguiente manera
 - `o` se convierte en `ober`
 - `u` se convierte en `ufat`
 
-Por ejemplo, "hola mundo" se encriptaría como "hoberlai munderfat".
 
 ## Créditos
 
